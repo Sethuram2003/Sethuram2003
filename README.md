@@ -18,7 +18,7 @@ Bridging Data and Engineering with Excellence
 class TechArtisan {
     readonly name = "R Sethuram Gautham";
     readonly role = "Data Engineer";
-    readonly level = 24;
+    readonly level = 21;
     readonly powerStats = {
         dataEngineering: "Building resilient data pipelines for real-time insights",
         dataArchitecture: "Designing scalable, efficient data systems",
