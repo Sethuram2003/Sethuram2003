@@ -71,20 +71,21 @@ class TechArtisan {
 ## 💫 Power Levels
 
 ```yaml
-Data Engineering Powers:
-  ETL/ELT          | ████████░░ | 80%
-  Data Modeling    | ███████░░░ | 70%
-  Pipeline Design  | ████████░░ | 80%
-  
-Software Engineering Powers:
-  Backend Dev      | ████████░░ | 80%
-  Frontend Dev     | ███████░░░ | 70%
-  System Design    | ██████░░░░ | 60%
-  
+Core Engineering Powers:
+  ETL/ELT Processes       | ████████░░ | 85%
+  Data Modeling           | ████████░░ | 80%
+  Pipeline Design         | ████████░░ | 85%
+  Data Analysis           | ███████░░░ | 75%
+  Distributed Systems     | ██████░░░░ | 65%
+  API Development         | ███████░░░ | 75%
+  System Architecture     | ███████░░░ | 70%
+  Kafka/Hadoop Ecosystem  | ██████░░░░ | 60%
+
 Special Abilities:
-  Problem Solving  | █████████░ | 90%
-  Code Quality     | ████████░░ | 80%
-  Team Work        | █████████░ | 90%
+  Problem Solving         | ██████████ | 95%
+  Code Quality            | ████████░░ | 85%
+  Team Work               | █████████░ | 90%
+  Learning Agility        | █████████░ | 90%
 ```
 
 ## 🎯 Current Quests
@@ -94,32 +95,31 @@ Special Abilities:
 ```mermaid
 mindmap
   root((Tech Mastery))
-    Data Engineering
-      ETL Pipeline Mastery
-      Stream Processing
-      Data Warehouse Design
-    Software Engineering
-      Microservices
-      Cloud Native Apps
-      System Architecture
-    DevOps
-      CI/CD Mastery
-      Infrastructure as Code
+    ETL & ELT Processes
+    Real-Time Data Processing
+    Data Pipeline Design
+    Data Modeling & Warehousing
+    API Development
+    Distributed Systems
+    System Architecture
+    CI/CD Automation
+    Infrastructure as Code (IaC)
+    Containerization & Orchestration
 ```
 
 </div>
 
 ## 🏆 Legendary Achievements
 
-### ⚡ Data Engineering Saga
-- Architected end-to-end data pipelines
-- Optimized data processing workflows
-- Implemented real-time analytics solutions
+### ⚡ Tech Mastery Saga
+- Architected end-to-end data pipelines and optimized ETL/ELT processes
+- Designed real-time analytics and data streaming solutions
+- Engineered distributed systems for scalability and reliability
+- Developed and deployed API-driven microservices
+- Designed resilient system architectures for cloud-native environments
+- Automated CI/CD pipelines and implemented Infrastructure as Code
+- Leveraged containerization and orchestration for scalable applications
 
-### 🔥 Software Engineering Chronicles
-- Developed scalable microservices
-- Created responsive web applications
-- Engineered cloud-native solutions
 
 ## 📊 Battle Stats
 
