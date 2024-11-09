@@ -1,89 +1,113 @@
-<h1 align="center">⭐ こんにちは (Konnichiwa)! I'm Sethuram Gautham ⭐</h1>
+<h1 align="center">🎮 PLAYER ONE: Sethuram Gautham 🎮</h1>
 
 <div align="center">
-  
-  ```ascii
-  +-----------------+
-  |  Data Engineer  |
-  |    In Training  |
-  |    ㅇㅅㅇ     |
-  +-----------------+
-  ```
+
+```ascii
+    ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️ BA START!
+         LEVEL 24 DATA ENGINEER
+     [ CURRENTLY LOADING NEW SKILLS... ]
+```
+
+[![Game Status](https://img.shields.io/badge/Status-Actively%20Coding-brightgreen)](https://github.com/Sethuram2003)
+[![XP Level](https://img.shields.io/badge/XP%20Level-Data%20Engineering-blue)](https://github.com/Sethuram2003)
 </div>
 
-## 🌟 About Me 
+## 📊 Player Stats 
 
 ```python
-class DataEngineer:
+class PlayerProfile:
     def __init__(self):
         self.name = "Sethuram Gautham"
-        self.role = "Aspiring Data Engineer"
-        self.language_spoken = ["Tamil", "English"]
-        self.interests = ["Data Engineering", "Anime", "Tech"]
+        self.class_type = "Data Engineer"
+        self.level = "Apprentice"
+        self.guilds = ["Python Coders", "Database Masters"]
+        self.current_quest = "Building Data Pipelines"
+        self.power_sources = ["Anime", "Gaming", "Technology"]
 ```
 
-## 💫 Technical Powers
+## 🎯 Skill Tree
 
-```yaml
-Programming Languages:
-  - Python: ████████░░ 80%
-  - SQL:    ███████░░░ 70%
-  
-Big Data Tools:
-  - Apache Spark: ██████░░░ 60%
-  - Hadoop:      █████░░░░ 50%
-  
-Databases:
-  - PostgreSQL:  ████████░░ 80%
-  - MongoDB:     ██████░░░ 60%
+```css
+CORE ABILITIES:
+[⚔️] Python        [||||||||--]  80/100
+[🛡️] SQL          [|||||||---]  70/100
+[🏹] Apache Spark  [||||||----]  60/100
+[⚡] Hadoop        [|||||-----]  50/100
+
+SPECIAL MOVES:
+[💾] PostgreSQL    [||||||||--]  80/100
+[🗃️] MongoDB      [||||||----]  60/100
+
+COMBAT STYLE: Data Pipeline Warrior
 ```
 
-## 🎯 Current Quest Objectives
+## 🎮 Current Quests
 
-- 📚 Mastering the arts of ETL/ELT transformations
-- 🌊 Learning data streaming techniques
-- ☁️ Exploring cloud data architectures
-- 🏗️ Building scalable data pipelines
+```ascii
++----------------------+
+|    MAIN MISSIONS    |
++----------------------+
+| ⚔️ Master ETL/ELT   |
+| 🌊 Learn Streaming  |
+| ☁️ Conquer Cloud   |
+| 🏰 Build Pipelines |
++----------------------+
+```
 
-## 🚀 Notable Projects
+## 🏆 Achievement Gallery
 
-### 🔮 Data Pipeline Quest
-- Built ETL workflows using Python
-- Implemented data quality gates
-- Enhanced data processing efficiency
+### 🔮 Data Pipeline Saga
+```ascii
+[ACHIEVEMENT UNLOCKED]
+└── Built ETL workflows using Python
+└── Implemented data quality checks
+└── Enhanced processing efficiency
+```
 
-### 📊 Database Mastery
-- Designed efficient schemas
-- Optimized query performance
-- Created automated workflows
+### 📊 Database Chronicles
+```ascii
+[RARE ACHIEVEMENT]
+└── Optimized query performance
+└── Designed efficient schemas
+└── Automated data workflows
+```
 
-## 🌈 GitHub Stats
+## 📈 Battle Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sethuram2003&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sethuram2003&show_icons=true&theme=radical)
 
 </div>
 
-## 🎌 Connect With Me
+## 🌐 Multiplayer Zone
 
 <div align="center">
-  
+
 ```ascii
-+-------------------+
-|    Let's Chat!    |
-+-------------------+
+   PRESS START TO CONNECT
+[P1] GitHub: Sethuram2003
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sethuram2003-blue?style=flat-square&logo=github)](https://github.com/Sethuram2003)
+[![GitHub](https://img.shields.io/badge/Join_Party-Sethuram2003-FF0000?style=for-the-badge&logo=github)](https://github.com/Sethuram2003)
 
 </div>
 
 ---
 <div align="center">
-  
-  *"Data is like chakra - it needs to flow efficiently to be powerful!"* 
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sethuram2003.Sethuram2003)
-  
+
+*"Every bug is just an undocumented feature waiting to be discovered!"*
+
+```ascii
+     CONTINUE?
+   ↪️ INSERT COIN ↩️
+```
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sethuram2003.Sethuram2003)
+
 </div>
+
+<!-- Easter Egg: Konami Code in comments! -->
+```ascii
+Hidden Achievement: Found the Easter Egg! 🏆
+```
