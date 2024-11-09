@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Realm+⚡;Building+Digital+Solutions+💫)
 
 ```ascii
-Level 24 Tech Artisan | Code Architect | Pipeline Sage
-Where Data Meets Software Engineering Excellence
+Level 24 Data Engineering Artisan | Code Architect | Pipeline Innovator
+Bridging Data and Engineering with Excellence
 ```
 
 [![GitHub](https://img.shields.io/badge/CONNECT-Sethuram2003-6e5494?style=for-the-badge&logo=github)](https://github.com/Sethuram2003)
@@ -16,18 +16,18 @@ Where Data Meets Software Engineering Excellence
 
 ```typescript
 class TechArtisan {
-    readonly name = "Sethuram Gautham";
-    readonly roles = ["Data Engineer", "Software Engineer"];
+    readonly name = "R Sethuram Gautham";
+    readonly role = "Data Engineer";
     readonly level = 24;
     readonly powerStats = {
-        dataEngineering: "Architecting robust data pipelines",
-        softwareEngineering: "Crafting scalable applications",
-        problemSolving: "Converting challenges into solutions",
-        learning: "Constantly evolving and adapting"
+        dataEngineering: "Building resilient data pipelines for real-time insights",
+        dataArchitecture: "Designing scalable, efficient data systems",
+        problemSolving: "Transforming complex data challenges into solutions",
+        learning: "Evolving continuously to enhance data expertise"
     };
     
     getCurrentQuest() {
-        return "Mastering the Arts of Data & Software Engineering";
+        return "Mastering the Art of Data Engineering";
     }
 }
 ```
@@ -36,21 +36,35 @@ class TechArtisan {
 
 <div align="center">
 
-### 🚀 Technologies & Tools
-
+### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 💾 Databases & Tools
-
+### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Big Data & Tools
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+### 🔧 Development & Monitoring
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🤖 Automation & Scraping
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43853D?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
