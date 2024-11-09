@@ -17,7 +17,6 @@ Bridging Data and Engineering with Excellence
 ```typescript
 class TechArtisan {
     readonly name = "R Sethuram Gautham";
-    readonly role = "Data Engineer";
     readonly level = 21;
     readonly powerStats = {
         dataEngineering: "Building resilient data pipelines for real-time insights",
