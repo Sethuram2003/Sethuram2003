@@ -1,8 +1,19 @@
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Welcome+to+my+Digital+Realm+⚡;Data+Engineer+%7C+Software+Engineer;Building+Digital+Solutions+💫)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="10%" />
+<!-- Night Coding Anime Girl -->
+<img src="https://cdn.discordapp.com/attachments/1025170010333450343/1025170088327671919/night-coding.gif" alt="Coding Anime" width="35%">
+<!-- or -->
+<!-- Code Geass Typing -->
+<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Anime Coding" width="35%">
+<!-- or -->
+<!-- Aesthetic Coding Setup -->
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding Setup" width="35%">
+<!-- or -->
+<!-- Lofi Coding Scene -->
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Lofi Coding" width="35%">
+<!-- or --> 
+<!-- Matrix-style Coding -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkeWFjNWR5cTFiOHl6YjY5bHQyOGNnZ3E1amdqZm8zYmE3aXR6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Coding" width="35%">
+</div>
 
 ```ascii
 Level 24 Tech Artisan | Code Architect | Pipeline Sage
