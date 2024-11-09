@@ -1,113 +1,102 @@
-<h1 align="center">🎮 PLAYER ONE: Sethuram Gautham 🎮</h1>
+<h1 align="center">⚡ Sethuram Gautham ⚡</h1>
 
 <div align="center">
 
 ```ascii
-    ⬆️⬆️⬇️⬇️⬅️➡️⬅️➡️ BA START!
-         LEVEL 24 DATA ENGINEER
-     [ CURRENTLY LOADING NEW SKILLS... ]
+Data Engineer | Code Artist | Pipeline Architect
+Turning Data into Power, One Pipeline at a Time
 ```
 
-[![Game Status](https://img.shields.io/badge/Status-Actively%20Coding-brightgreen)](https://github.com/Sethuram2003)
-[![XP Level](https://img.shields.io/badge/XP%20Level-Data%20Engineering-blue)](https://github.com/Sethuram2003)
+![Profile Views](https://komarev.com/ghpvc/?username=Sethuram2003&color=blueviolet)
 </div>
 
-## 📊 Player Stats 
+## 🎭 Profile Status
 
-```python
-class PlayerProfile:
-    def __init__(self):
-        self.name = "Sethuram Gautham"
-        self.class_type = "Data Engineer"
-        self.level = "Apprentice"
-        self.guilds = ["Python Coders", "Database Masters"]
-        self.current_quest = "Building Data Pipelines"
-        self.power_sources = ["Anime", "Gaming", "Technology"]
+```typescript
+const developer = {
+    name: "Sethuram Gautham",
+    role: "Aspiring Data Engineer",
+    level: 24,
+    specialization: "Data Pipeline Architecture",
+    stats: {
+        focus: 90,
+        analysis: 85,
+        coding: 80,
+        persistence: 95
+    },
+    currentQuest: "Mastering Advanced Data Engineering"
+};
 ```
 
-## 🎯 Skill Tree
+## ⚔️ Technical Arsenal
 
-```css
-CORE ABILITIES:
-[⚔️] Python        [||||||||--]  80/100
-[🛡️] SQL          [|||||||---]  70/100
-[🏹] Apache Spark  [||||||----]  60/100
-[⚡] Hadoop        [|||||-----]  50/100
-
-SPECIAL MOVES:
-[💾] PostgreSQL    [||||||||--]  80/100
-[🗃️] MongoDB      [||||||----]  60/100
-
-COMBAT STYLE: Data Pipeline Warrior
+```yaml
+Core Technologies:
+  Python      | ████████░░ | Advanced
+  SQL         | ███████░░░ | Proficient
+  
+Engineering Tools:
+  Apache Spark | ██████░░░░ | Intermediate
+  Hadoop      | █████░░░░░ | Learning
+  
+Database Systems:
+  PostgreSQL  | ████████░░ | Advanced
+  MongoDB     | ██████░░░░ | Intermediate
 ```
 
-## 🎮 Current Quests
+## 🔮 Current Objectives
 
-```ascii
-+----------------------+
-|    MAIN MISSIONS    |
-+----------------------+
-| ⚔️ Master ETL/ELT   |
-| 🌊 Learn Streaming  |
-| ☁️ Conquer Cloud   |
-| 🏰 Build Pipelines |
-+----------------------+
+<div align="left">
+
+```mermaid
+graph LR
+    A[ETL Mastery] --> B[Stream Processing]
+    B --> C[Cloud Architecture]
+    C --> D[Production Pipeline]
+    style A fill:#3498db
+    style B fill:#2ecc71
+    style C fill:#9b59b6
+    style D fill:#e74c3c
 ```
 
-## 🏆 Achievement Gallery
-
-### 🔮 Data Pipeline Saga
-```ascii
-[ACHIEVEMENT UNLOCKED]
-└── Built ETL workflows using Python
-└── Implemented data quality checks
-└── Enhanced processing efficiency
-```
-
-### 📊 Database Chronicles
-```ascii
-[RARE ACHIEVEMENT]
-└── Optimized query performance
-└── Designed efficient schemas
-└── Automated data workflows
-```
-
-## 📈 Battle Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sethuram2003&show_icons=true&theme=radical)
+- 📊 Advanced Data Pipeline Architecture
+- 🌊 Real-time Data Stream Processing
+- ☁️ Cloud-Native Solutions
+- 🛠️ Production-Grade System Design
 
 </div>
 
-## 🌐 Multiplayer Zone
+## 🏆 Completed Missions
+
+### Data Pipeline Framework
+- Engineered robust ETL workflows
+- Implemented comprehensive data validation
+- Optimized processing efficiency by 40%
+
+### Database Architecture
+- Designed scalable data schemas
+- Enhanced query performance
+- Automated critical workflows
+
+## ⚡ Battle Statistics
 
 <div align="center">
 
-```ascii
-   PRESS START TO CONNECT
-[P1] GitHub: Sethuram2003
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sethuram2003&show_icons=true&theme=omni)
 
-[![GitHub](https://img.shields.io/badge/Join_Party-Sethuram2003-FF0000?style=for-the-badge&logo=github)](https://github.com/Sethuram2003)
+</div>
+
+## 🌐 Network Link
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/CONNECT-Sethuram2003-6e5494?style=for-the-badge&logo=github)](https://github.com/Sethuram2003)
 
 </div>
 
 ---
 <div align="center">
 
-*"Every bug is just an undocumented feature waiting to be discovered!"*
-
-```ascii
-     CONTINUE?
-   ↪️ INSERT COIN ↩️
-```
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sethuram2003.Sethuram2003)
+*"In the world of data, each challenge is a new level waiting to be conquered."*
 
 </div>
-
-<!-- Easter Egg: Konami Code in comments! -->
-```ascii
-Hidden Achievement: Found the Easter Egg! 🏆
-```
