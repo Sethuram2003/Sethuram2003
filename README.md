@@ -104,6 +104,12 @@ mindmap
     CI/CD Automation
     Infrastructure as Code (IaC)
     Containerization & Orchestration
+    LLM Mastery
+      LLM Fine-Tuning
+      LangChain
+      RAG (Retrieval-Augmented Generation)
+      Vector Database
+      LoRA (Low-Rank Adaptation)
 ```
 
 </div>
