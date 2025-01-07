@@ -142,7 +142,7 @@ mindmap
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/Sethuram2003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari&logoColor=white)]((https://sethuram.netlify.app/home))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=safari&logoColor=white)](https://sethuram.netlify.app/home)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethuramgautha.rajakumar@stonybrook.edu)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.gif" alt="Victory" width="10%" />
