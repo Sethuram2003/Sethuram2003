@@ -93,16 +93,14 @@ Special Abilities:
 
 ```mermaid
 mindmap
-  root((Tech Mastery))
+  root((Data Mastery))
     ETL & ELT Processes
     Real-Time Data Processing
     Data Pipeline Design
     Data Modeling & Warehousing
     API Development
     Distributed Systems
-    System Architecture
     CI/CD Automation
-    Infrastructure as Code (IaC)
     Containerization & Orchestration
     LLM Mastery
       LLM Fine-Tuning
